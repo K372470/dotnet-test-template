@@ -1,7 +1,7 @@
 ## .NET CLI tutorial
  This is a simple project, which was set up for solving kata's from [CodeWars](https://www.codewars.com/)
 
-###### How to create this project :
+###### How did i create this project :
  - mkdir *folder_name*
  - cd *folder_name*
  - dotnet new console
